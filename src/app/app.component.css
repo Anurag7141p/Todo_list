@@ -1,0 +1,85 @@
+
+
+/* #main_div{
+    height: 100px;
+    width: 300px;
+    background-color: #AF7EEB;
+} */
+
+
+#main_head{
+    margin-top: 120px;
+    margin-left: 410px;
+    color: #CECECE;
+    font-family: 'Teko', sans-serif;
+    font-size: 55px;
+
+}
+
+#add_details{
+    margin-left: 400px;
+    margin-top: 20px;
+    height: 55px;
+    width: 600px;
+    border-radius: 2px;
+
+}
+
+#add_icon{
+    color: rgb(18, 79, 201);
+}
+
+#id{
+    width: 500px;
+    height: 45px;
+    border-radius: 8px;
+    color: aliceblue;
+    border: none;
+    margin-top: 4px;
+    margin-left: 4px;
+    outline: none;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #2D333B;
+    padding-left: 20px;
+}
+
+
+
+/* -------------------------------------display----------------------------------------- */
+
+
+
+::placeholder{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-left: 10px;
+}
+
+
+#list_display{
+    width: 400px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: #1a1a1a;
+    margin-left: 450px;
+    display: flex;
+    margin-top: 7px;
+    color: #CECECE;
+}
+
+
+#name_div{
+    width: 350px;
+    height: 50px;
+    padding-top: 13px;
+    padding-left: 20px;
+    font-family: 'Pacifico', cursive;
+
+
+
+}
+
+#icon_div{
+    width: 50px;
+    height: 50px;
+    padding-top: 10px;
+}
